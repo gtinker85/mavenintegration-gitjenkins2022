@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="Listeners3_4__eeeeTestSuite">
+<suite name="Listeners3_4_TestSuite">
 <listeners>
 	<listener class-name="mavenTestGroupID.MavenTest2022.listeners.CustomListener3"></listener>
 </listeners>
 
-	<test name="Application_eeee_________Test3">
+	<test name="Application_Test3">
 		<classes>
 			<class name="mavenTestGroupID.MavenTest2022.TestNG_ListenersTest3"></class>
 		</classes>
 	</test>
-	<test name="Application_eeee_______Test4">
+	<test name="Application_Test4">
 		<classes>
 			<class name="mavenTestGroupID.MavenTest2022.TestNG_ListenersTest4"></class>
 		</classes>

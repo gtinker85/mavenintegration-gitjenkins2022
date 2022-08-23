@@ -25,11 +25,11 @@ public class ExtentReportsDemo1 {
 	@BeforeMethod
 	public void setUp() throws Exception {
 		System.setProperty("webdriver.chrome.driver", "C:\\project_workspace_jars_2022\\drivers\\chromedriver_win32\\chromedriver.exe");
-		driver = new ChromeDriver();
+		driver = new ChromeDriver();		 
 		//js = (JavascriptExecutor) driver;
 		baseURL = "https://courses.letskodeit.com/practice";
 		
-		driver.manage().window().maximize();	
+		//driver.manage().window().maximize();	
 		WebDriverWait wait = new WebDriverWait(driver,Duration.ofSeconds(10, 1));
 	}
 	
@@ -75,8 +75,6 @@ public class ExtentReportsDemo1 {
 		Thread.sleep(2000);
 		driver.quit();
 	}
-
-	 
 
 }
 
