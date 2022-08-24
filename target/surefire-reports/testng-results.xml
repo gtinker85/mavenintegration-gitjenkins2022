@@ -2,48 +2,46 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-23T13:33:38 PDT" name="Listeners3_4_TestSuite" finished-at="2022-08-23T13:33:38 PDT" duration-ms="96">
+  <suite started-at="2022-08-23T13:44:05 PDT" name="Command line suite" finished-at="2022-08-23T13:44:05 PDT" duration-ms="237">
     <groups>
     </groups>
-    <test started-at="2022-08-23T13:33:38 PDT" name="Application_Test3" finished-at="2022-08-23T13:33:38 PDT" duration-ms="59">
-      <class name="mavenTestGroupID.MavenTest2022.TestNG_ListenersTest3">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:mavenTestGroupID.MavenTest2022.TestNG_ListenersTest3@793f29ff]" started-at="2022-08-23T13:33:38 PDT" name="setUp" finished-at="2022-08-23T13:33:38 PDT" duration-ms="15" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="testMethod1()[pri:0, instance:mavenTestGroupID.MavenTest2022.TestNG_ListenersTest3@793f29ff]" started-at="2022-08-23T13:33:38 PDT" name="testMethod1" finished-at="2022-08-23T13:33:38 PDT" duration-ms="4" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testMethod1 -->
-        <test-method signature="testMethod2()[pri:0, instance:mavenTestGroupID.MavenTest2022.TestNG_ListenersTest3@793f29ff]" started-at="2022-08-23T13:33:38 PDT" name="testMethod2" finished-at="2022-08-23T13:33:38 PDT" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testMethod2 -->
-        <test-method is-config="true" signature="cleanUp()[pri:0, instance:mavenTestGroupID.MavenTest2022.TestNG_ListenersTest3@793f29ff]" started-at="2022-08-23T13:33:38 PDT" name="cleanUp" finished-at="2022-08-23T13:33:38 PDT" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- cleanUp -->
-      </class> <!-- mavenTestGroupID.MavenTest2022.TestNG_ListenersTest3 -->
-    </test> <!-- Application_Test3 -->
-    <test started-at="2022-08-23T13:33:38 PDT" name="Application_Test4" finished-at="2022-08-23T13:33:38 PDT" duration-ms="5">
+    <test started-at="2022-08-23T13:44:05 PDT" name="Command line test" finished-at="2022-08-23T13:44:05 PDT" duration-ms="237">
       <class name="mavenTestGroupID.MavenTest2022.TestNG_ListenersTest4">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:mavenTestGroupID.MavenTest2022.TestNG_ListenersTest4@5b218417]" started-at="2022-08-23T13:33:38 PDT" name="setUp" finished-at="2022-08-23T13:33:38 PDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mavenTestGroupID.MavenTest2022.TestNG_ListenersTest4@2177849e]" started-at="2022-08-23T13:44:05 PDT" name="setUp" finished-at="2022-08-23T13:44:05 PDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testMethod1()[pri:0, instance:mavenTestGroupID.MavenTest2022.TestNG_ListenersTest4@5b218417]" started-at="2022-08-23T13:33:38 PDT" name="testMethod1" finished-at="2022-08-23T13:33:38 PDT" duration-ms="0" status="PASS">
+        <test-method signature="testMethod1()[pri:0, instance:mavenTestGroupID.MavenTest2022.TestNG_ListenersTest4@2177849e]" started-at="2022-08-23T13:44:05 PDT" name="testMethod1" finished-at="2022-08-23T13:44:05 PDT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod1 -->
-        <test-method signature="testMethod2()[pri:0, instance:mavenTestGroupID.MavenTest2022.TestNG_ListenersTest4@5b218417]" started-at="2022-08-23T13:33:38 PDT" name="testMethod2" finished-at="2022-08-23T13:33:38 PDT" duration-ms="0" status="PASS">
+        <test-method signature="testMethod2()[pri:0, instance:mavenTestGroupID.MavenTest2022.TestNG_ListenersTest4@2177849e]" started-at="2022-08-23T13:44:05 PDT" name="testMethod2" finished-at="2022-08-23T13:44:05 PDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod2 -->
-        <test-method is-config="true" signature="cleanUp()[pri:0, instance:mavenTestGroupID.MavenTest2022.TestNG_ListenersTest4@5b218417]" started-at="2022-08-23T13:33:38 PDT" name="cleanUp" finished-at="2022-08-23T13:33:38 PDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:mavenTestGroupID.MavenTest2022.TestNG_ListenersTest4@2177849e]" started-at="2022-08-23T13:44:05 PDT" name="cleanUp" finished-at="2022-08-23T13:44:05 PDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
       </class> <!-- mavenTestGroupID.MavenTest2022.TestNG_ListenersTest4 -->
-    </test> <!-- Application_Test4 -->
-  </suite> <!-- Listeners3_4_TestSuite -->
+      <class name="mavenTestGroupID.MavenTest2022.TestNG_ListenersTest3">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mavenTestGroupID.MavenTest2022.TestNG_ListenersTest3@4e268090]" started-at="2022-08-23T13:44:05 PDT" name="setUp" finished-at="2022-08-23T13:44:05 PDT" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testMethod1()[pri:0, instance:mavenTestGroupID.MavenTest2022.TestNG_ListenersTest3@4e268090]" started-at="2022-08-23T13:44:05 PDT" name="testMethod1" finished-at="2022-08-23T13:44:05 PDT" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method signature="testMethod2()[pri:0, instance:mavenTestGroupID.MavenTest2022.TestNG_ListenersTest3@4e268090]" started-at="2022-08-23T13:44:05 PDT" name="testMethod2" finished-at="2022-08-23T13:44:05 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:mavenTestGroupID.MavenTest2022.TestNG_ListenersTest3@4e268090]" started-at="2022-08-23T13:44:05 PDT" name="cleanUp" finished-at="2022-08-23T13:44:05 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- mavenTestGroupID.MavenTest2022.TestNG_ListenersTest3 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
 </testng-results>
